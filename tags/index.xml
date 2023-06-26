@@ -2,71 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Remote &#39;n Active</title>
-    <link>http://localhost:1313/subdir/tags/</link>
+    <link>https://remotenactive.com/tags/</link>
     <description>Recent content in Tags on Remote &#39;n Active</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/subdir/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://remotenactive.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>📋 GUIDES</title>
-      <link>http://localhost:1313/subdir/tags/guides/</link>
-      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      <title>🎆 TRENDS</title>
+      <link>https://remotenactive.com/tags/trends/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/subdir/tags/guides/</guid>
+      <guid>https://remotenactive.com/tags/trends/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>🦸🏻‍♀️ LEADERSHIP</title>
-      <link>http://localhost:1313/subdir/tags/%EF%B8%8F-leadership/</link>
-      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      <title>💻 Remote Jobs</title>
+      <link>https://remotenactive.com/tags/remote-jobs/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/subdir/tags/%EF%B8%8F-leadership/</guid>
+      <guid>https://remotenactive.com/tags/remote-jobs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>📋 Guides</title>
+      <link>https://remotenactive.com/tags/guides/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://remotenactive.com/tags/guides/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🧠 Productivity</title>
-      <link>http://localhost:1313/subdir/tags/productivity/</link>
-      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      <link>https://remotenactive.com/tags/productivity/</link>
+      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/subdir/tags/productivity/</guid>
+      <guid>https://remotenactive.com/tags/productivity/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>🎆 TRENDS</title>
-      <link>http://localhost:1313/subdir/tags/trends/</link>
-      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
+      <title>🦸🏻‍♀️ LEADERSHIP</title>
+      <link>https://remotenactive.com/tags/%EF%B8%8F-leadership/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/subdir/tags/trends/</guid>
+      <guid>https://remotenactive.com/tags/%EF%B8%8F-leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>🤸🏽 Exercises</title>
+      <link>https://remotenactive.com/tags/exercises/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://remotenactive.com/tags/exercises/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>🧘🏽‍♂️ Mindfulness</title>
+      <link>https://remotenactive.com/tags/%EF%B8%8F-mindfulness/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://remotenactive.com/tags/%EF%B8%8F-mindfulness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🎮 GAMES</title>
-      <link>http://localhost:1313/subdir/tags/games/</link>
+      <link>https://remotenactive.com/tags/games/</link>
       <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/subdir/tags/games/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>🧘🏽‍♂️ MINDFULNESS</title>
-      <link>http://localhost:1313/subdir/tags/%EF%B8%8F-mindfulness/</link>
-      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/subdir/tags/%EF%B8%8F-mindfulness/</guid>
+      <guid>https://remotenactive.com/tags/games/</guid>
       <description></description>
     </item>
     
     <item>
       <title>💬 SLACK/TEAMS</title>
-      <link>http://localhost:1313/subdir/tags/slack/teams/</link>
+      <link>https://remotenactive.com/tags/slack/teams/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/subdir/tags/slack/teams/</guid>
+      <guid>https://remotenactive.com/tags/slack/teams/</guid>
       <description></description>
     </item>
     

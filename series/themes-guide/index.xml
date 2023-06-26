@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Themes Guide on Remote &#39;n Active</title>
-    <link>http://localhost:1313/subdir/series/themes-guide/</link>
+    <link>https://remotenactive.com/series/themes-guide/</link>
     <description>Recent content in Themes Guide on Remote &#39;n Active</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://localhost:1313/subdir/series/themes-guide/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://remotenactive.com/series/themes-guide/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,21 +1,21 @@
 essential-guide-to-remote-team-activities - OK
-how-to-track-your-remote-teams-mood-template
-find-remote-activities-in-under-60-seconds
-winter-is-coming-how-to-reduce-stress-as-a-remote-leader-without-losing-your-cool
-virtual-team-building-retro-style-4-cool-games-for-you
-no-meetings-today-how-you-can-make-async-team-building-work
-how-to-play-games-on-slack-an-easy-guide
-head-of-remote-heres-what-you-need-to-know
-lead-your-remote-team-with-confidence
-discord-for-work
-what-is-remote-leadership
-how-to-stay-productive-while-working-remotely
-tips-to-stay-active-while-working-from-home
-how-to-put-together-the-perfect-team
+how-to-track-your-remote-teams-mood-template - OK
+find-remote-activities-in-under-60-seconds - OK
+winter-is-coming-how-to-reduce-stress-as-a-remote-leader-without-losing-your-cool - OK
+virtual-team-building-retro-style-4-cool-games-for-you - OK
+no-meetings-today-how-you-can-make-async-team-building-work - OK
+how-to-play-games-on-slack-an-easy-guide - OK
+head-of-remote-heres-what-you-need-to-know - OK
+lead-your-remote-team-with-confidence - OK
+discord-for-work - OK
+what-is-remote-leadership - OK
+how-to-stay-productive-while-working-remotely - OK
+tips-to-stay-active-while-working-from-home - OK
+how-to-put-together-the-perfect-team - OK
 best-remote-first-companies - OK
 how-to-find-a-remote-job
-what-is-asynchronous-communication
-digital-nomad-jobs-for-beginners
-fully-remote-companies
-remote-work-newsletter-remote-drip-1
-remote-work-newsletter-remote-drip-2
+what-is-asynchronous-communication - OK
+digital-nomad-jobs-for-beginners - OK
+fully-remote-companies - OK
+remote-work-newsletter-remote-drip-1 - Ditch
+remote-work-newsletter-remote-drip-2 - Ditch
