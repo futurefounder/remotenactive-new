@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>💬 SLACK/TEAMS on Remote &#39;n Active</title>
+    <link>http://localhost:1313/subdir/tags/slack/teams/</link>
+    <description>Recent content in 💬 SLACK/TEAMS on Remote &#39;n Active</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://localhost:1313/subdir/tags/slack/teams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Play Games on Slack - A Beginners&#39; Guide</title>
+      <link>http://localhost:1313/subdir/how-to-play-games-on-slack-an-easy-guide/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/subdir/how-to-play-games-on-slack-an-easy-guide/</guid>
+      <description>How To Play Games on Slack - A Beginners&amp;rsquo; Guide
+Slack is a great tool for remote teams.
+It&amp;rsquo;s an easy way to work on projects, chat, share files and play games together as a team.
+In fact, some companies have even created their own Slack bots that allow employees to engage with each other with by playing games during the work day.
+But, you do not have to go this far.</description>
+    </item>
+    
+  </channel>
+</rss>
